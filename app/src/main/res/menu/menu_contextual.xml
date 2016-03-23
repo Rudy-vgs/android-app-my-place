@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="rudy.to_dolist.ToDoList">
+    <item
+        android:id="@+id/action_google_it"
+        android:orderInCategory="100"
+        android:title="@string/action_google_it"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_google_map"
+        android:orderInCategory="100"
+        android:title="@string/action_google_map"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_delete"
+        android:orderInCategory="100"
+        android:title="@string/action_delete"
+        app:showAsAction="never" />
+</menu>

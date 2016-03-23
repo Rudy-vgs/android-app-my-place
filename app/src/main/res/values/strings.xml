@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Place</string>
+
+    <string name="action_delete_all">Effacer tout</string>
+
+    <string name="button_add">Ajouter un lieu</string>
+    <string name="button_list">Lieux enregistrés</string>
+    <string name="button_about">A propos</string>
+    <string name="button_leave">Quitter</string>
+
+    <string name="action_google_it">Recherche avec Google</string>
+    <string name="action_google_map">Trouver sur Google Map</string>
+    <string name="action_delete">Effacer</string>
+
+    <string name="title_activity_add">Ajouter un lieu</string>
+    <string name="title_activity_list">Liste des lieux</string>
+
+    <string name="confirmation">Confirmation</string>
+    <string name="clear_list_question">Êtes vous sûr de vouloir vider complètement votre liste ?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Annuler</string>
+</resources>
